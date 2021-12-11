@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0e45240-0b97-454c-b43b-6091d2ff827f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../159-251-Assignmnet2/src/test/java/MemAppender/StressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../159-251-Assignmnet2/src/test/java/MemAppender/VelocityLayoutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CMPT-381-Assignment4-javafx/src/main/java/com/example/a4basics/Groupable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CMPT-381-Assignment4-javafx/src/main/java/com/example/a4basics/ShipClipboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CMPT-381-Assignment4-javafx/src/main/java/com/example/a4basics/ShipGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/2009J_Memory_Management_v2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/memory_FIFO.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/memory_LRU.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/memory_clock.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/Instruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/Kernel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/MemoryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/PageFault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/src/Virtual2Physical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/tracefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/tracefile_FIFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/tracefile_LRU" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/tracefile_clock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP2009J-Assignment2-内存模拟/截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP20300-Simon Puzzle-javafx/第二份/src/simon/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP20300-Simon Puzzle-javafx/第二份/src/simon/shape/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP20300-Simon Puzzle-javafx/第二份/src/simon/shape/Pentagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMP20300-Simon Puzzle-javafx/第二份/src/simon/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/JFLAP7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Accept_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Accept_input_not_inorder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Images/Input.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Images/Output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Images/Screenshot (604).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Images/Screenshot (605).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Images/Screenshot (606).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Images/TM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/MoreTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/Reject_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/block_machine_new.jff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/input.jff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/data/output_new.jff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS154-图灵机/src/TurningMachinMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS20411-reversi游戏-最大最小算法/src/MoveChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS5721-simulation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/clerk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/letters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/SortedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI-201-Assignment3-运送系统-TCPP/easy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI-201-Assignment3-运送系统-TCPP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/ForwardServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/message/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/message/Payload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSU33031-NetworksFlow-UDP/src/flow/udp/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans/Test/cluster/Test_Cluster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans/src/utils/RandomNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans/src/utils/Sampler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kmeans/src/utils/StringPrintStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseModele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecordUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VueModeleGrille.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/AnnotationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/QuickCheckAnnotationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/QuickCheckProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/QuickCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com6516-俱乐部管理-GUI/src/ClubMembership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com6516-俱乐部管理-GUI/src/ConstUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com6516-俱乐部管理-GUI/src/MemberDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com6516-俱乐部管理-GUI/src/sheffield/EasyGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com6516-俱乐部管理-GUI/src/sheffield/EasyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com6516-俱乐部管理-GUI/src/sheffield/EasyWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/src/edu/miracosta/cs113/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/src/edu/miracosta/cs113/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/src/edu/miracosta/cs113/BinarySearchTreeWithRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/src/edu/miracosta/cs113/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-avltree-kai-7373/截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fa21-dll-kai-7373/src/edu/miracosta/cs113/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/Assignment2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/ippo-2021-2022-类似街景地图.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/java/ApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/java/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/java/WorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/basket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/forward.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/left-left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/right-right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/root.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/view.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/src/main/resources/viewer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ippo-2021-2022-类似街景地图/截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jrails/jrails/src/main/java/jrails/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wyb/964ac4fa21aa85a5ea7c2febfc3e948.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wyb/Lodu_Ex4.pde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wyb/MM1A03_Wk10a_Fall21(2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wyb/Raftis_Ex4.pde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wyb/Vaillancourt_Ex4.pde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wyb/morris_Ex4.pde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../小作业全集/10-计算器拓展/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../类设计-blueJ/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../类设计-blueJ/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../类设计-blueJ/src/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../维斯/a3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../维斯/a3/A3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../维斯/a3/femurSlices.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../维斯/a3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../维斯/a3/testSlices.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器-javafx/截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器-javafx/计算器-javafx.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器拓展/src/MemoryCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器拓展/src/ScientificCalcDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器拓展/src/ScientificMemCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMP2511-LoopMania-游戏" beforeDir="false" afterPath="$PROJECT_DIR$/../COMP2511-LoopMania-游戏" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMP9120-A2-加DB操作/COMP9120-A2-加DB操作/src/Data/PostgresRepositoryProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMP9120-A2-加DB操作/COMP9120-A2-加DB操作/src/Data/PostgresRepositoryProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSU33031-UDP/Assignment Description.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INFO1113-Assignment2-Scaffold/第二份/src/main/java/demolition/uitl/ConstantsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../INFO1113-Assignment2-Scaffold/第二份/src/main/java/demolition/uitl/ConstantsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MAT00027I-双复数运算/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/../MAT00027I-双复数运算/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jmt-code/jmt-code" beforeDir="false" afterPath="$PROJECT_DIR$/../jmt-code/jmt-code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数独-gui" beforeDir="false" afterPath="$PROJECT_DIR$/../数独-gui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\work\tool\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21mMk5PFiudeCvPlcUEbVpwi8cN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/FlowGame-参考" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Jeu">
+    <configuration name="Jeu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jeu" />
+      <module name="LIFAP7-图形链接" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VueControleurGrille" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VueControleurGrille" />
+      <module name="LIFAP7-图形链接" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jeu" />
+        <item itemvalue="Application.VueControleurGrille" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0e45240-0b97-454c-b43b-6091d2ff827f" name="Default Changelist" comment="" />
+      <created>1638541948391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638541948391</updated>
+      <workItem from="1638541949613" duration="8801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="40" key="#com.intellij.ide.util.MemberChooser" timestamp="1638548326414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="40" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638548326414" />
+    <state x="464" y="46" key="#xdebugger.evaluate" timestamp="1638547762358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="46" key="#xdebugger.evaluate/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638547762358" />
+    <state width="473" height="546" key="DebuggerActiveHint" timestamp="1638549038693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="473" height="546" key="DebuggerActiveHint/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549038693" />
+    <state x="496" y="109" key="FileChooserDialogImpl" timestamp="1638542867068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="109" key="FileChooserDialogImpl/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638542867068" />
+    <state width="1483" height="168" key="GridCell.Tab.0.bottom" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366148" />
+    <state width="1483" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state width="1483" height="168" key="GridCell.Tab.0.center" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.0.center/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366147" />
+    <state width="1483" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state width="1483" height="168" key="GridCell.Tab.0.left" timestamp="1638796689734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.0.left/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366147" />
+    <state width="1483" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638796689734" />
+    <state width="1483" height="168" key="GridCell.Tab.0.right" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.0.right/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366148" />
+    <state width="1483" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state width="1483" height="168" key="GridCell.Tab.1.bottom" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366010" />
+    <state width="1483" height="168" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state width="1483" height="168" key="GridCell.Tab.1.center" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.1.center/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366010" />
+    <state width="1483" height="168" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state width="1483" height="168" key="GridCell.Tab.1.left" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.1.left/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366009" />
+    <state width="1483" height="168" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state width="1483" height="168" key="GridCell.Tab.1.right" timestamp="1638796689735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="168" key="GridCell.Tab.1.right/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638549366010" />
+    <state width="1483" height="168" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1638796689735" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1638545938489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638545938489" />
+    <state x="2069" y="-854" width="1497" height="887" key="dock-window-1" timestamp="1638595812000">
+      <screen x="1920" y="-1076" width="2560" height="1400" />
+    </state>
+    <state x="2069" y="-854" width="1497" height="887" key="dock-window-1/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638595812000" />
+    <state x="398" y="87" width="740" height="650" key="find.popup" timestamp="1638544499667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="87" width="740" height="650" key="find.popup/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638544499667" />
+    <state x="604" y="247" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1638546467006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="247" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1638546467006" />
+  </component>
+</project>

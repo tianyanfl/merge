@@ -1,0 +1,11 @@
+.iml
+
+bin/
+.idea/
+*.idea/
+output/
+out/
+target/
+.metadata/
+.settings/
+__MACOSX/

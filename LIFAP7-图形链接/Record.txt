@@ -1,0 +1,20 @@
+2021-12-04 00:33:25
+NOBODY
+6
+cross S4 v0v1 S1 h0h1 h0v0 
+S5 h1v1 S4 h1v0 S5 S4 
+h0v0 S3 h0h1 S2 h1v0 h0h1 
+h0v0 S2 S3 h0v1 empty h0v1 
+h1v0 S4 h0v1 S5 S3 empty 
+S4 S5 h1v1 h1v1 S2 S1 
+
+2021-12-04 00:33:31
+NOBODY
+6
+empty S4 cross S1 h0h1 h0v0 
+S5 h1v1 S4 h1v0 S5 S4 
+h0v0 S3 h0h1 S2 h1v0 h0h1 
+h0v0 S2 S3 h0v1 empty h0v1 
+h1v0 S4 h0v1 S5 S3 empty 
+S4 S5 h1v1 h1v1 S2 S1 
+
